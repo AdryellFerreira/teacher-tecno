@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+  
+     <title>Teacher Tecno</title>
+    <link rel="icon" type="text/css" href="img/icon.png">
+    
+    <link rel="stylesheet" href="css/style1.css">
+  </head>
+  <body style="background-color: black">
+    <div class="container mt-4 ">
+      <img src="img/logo7.png" >
+    </div>
+        <div class="container mt-3">
+      <nav class="rounded navbar navbar-expand-lg navbar-light" style="background-color: #010526;">
+          <div class="container-fluid">    
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#" style="color:white;">Inicio</a>
+              </li>
+          
+              <li class="nav-item">
+                <a class="nav-link" href="#" style="color:#e6faff;" >Sobre</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#" style="color:#e6faff;" >Serviços</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#" style="color:#e6faff;" >Contado</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#" style="color:#e6faff;" >Nossa equipe</a>
+              </li>
+              
+             
+            </ul>
+            <form class="d-flex">
+           <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+           <button class="btn btn-outline-success" type="submit">Procurar</button>
+          </div>
+        </div>
+      </nav>
+    </div>
+     
+   </div>
+
+   <div  class="container mt-4">
+      <div class="row mt-3">
+        <div class="col-md-6 col-sm-12">
+          <img src="img/a3.jpg" class="rounded img-fluid">
+        </div>
+
+        <div class="col-md-6 col-sm-12 mt-5">
+        
+        <h1 class="container mt-2">Teacher Tecno</h1>
+         <div align="justify">
+            <font color="white">
+          <p class="container mt-4">Na Teacher Tecno, acreditamos que o conhecimento e a tecnologia podem levar pessoas as descobrimento de novas formas de deixar as aulas ainda mais dinâmocas. Sempre buscando o feedback construtivo dos nossos clientes a fim de melhorar e expandir o nosso negócio.
+          </p> 
+               </font>
+         </div> 
+
+        </div>
+      </div>      
+    </div>
+   
+
+    </font>
+
+    
+
+    
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+    
+  </body>
+</html>
